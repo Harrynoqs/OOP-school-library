@@ -35,7 +35,7 @@
 
 **school-library_OOP** 
 
-In this project, I finished creating the remaining classes for our school library and create the associations between them.
+In this project, I finished creating the remaining classes for our school library and created the associations between them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
