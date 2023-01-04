@@ -3,8 +3,6 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
 </div>
 
@@ -36,7 +34,7 @@
 # 📖 school-library_OOP <a name="about-project"></a>
 
 **school-library_OOP** 
-In this project, I started building my school library app. In this initial step, I implemented the classes to represent students and teachers.
+In this project, I used the Decorator design pattern to correct the names of people.
 
 ## 🛠 Built With <a name="built-with"></a>
 
