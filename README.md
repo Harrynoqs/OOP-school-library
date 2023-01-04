@@ -34,7 +34,8 @@
 # 📖 school-library_OOP <a name="about-project"></a>
 
 **school-library_OOP** 
-In this project, I used the Decorator design pattern to correct the names of people.
+
+In this project, I finished creating the remaining classes for our school library and created the associations between them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
