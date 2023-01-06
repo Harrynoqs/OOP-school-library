@@ -35,7 +35,7 @@
 
 **school-library_OOP** 
 
-In this project, I finished creating the remaining classes for our school library and created the associations between them.
+In this project, I created a form of UI for your school library app. This way it can be invoked as an executable and not something you use in IRB exclusively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
