@@ -34,7 +34,8 @@
 # 📖 school-library_OOP <a name="about-project"></a>
 
 **school-library_OOP** 
-In this project, I used the Decorator design pattern to correct the names of people.
+
+In this project, I created a form of UI for your school library app. This way it can be invoked as an executable and not something you use in IRB exclusively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
